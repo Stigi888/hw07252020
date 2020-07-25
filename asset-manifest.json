@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Stigi888/hw07252020/static/css/main.2caaf5fa.chunk.css",
+    "main.js": "/Stigi888/hw07252020/static/js/main.ec42007e.chunk.js",
+    "main.js.map": "/Stigi888/hw07252020/static/js/main.ec42007e.chunk.js.map",
+    "runtime-main.js": "/Stigi888/hw07252020/static/js/runtime-main.616478e3.js",
+    "runtime-main.js.map": "/Stigi888/hw07252020/static/js/runtime-main.616478e3.js.map",
+    "static/js/2.1f9e485b.chunk.js": "/Stigi888/hw07252020/static/js/2.1f9e485b.chunk.js",
+    "static/js/2.1f9e485b.chunk.js.map": "/Stigi888/hw07252020/static/js/2.1f9e485b.chunk.js.map",
+    "index.html": "/Stigi888/hw07252020/index.html",
+    "precache-manifest.0d96f5465a4052fe4b3e0e3cf4f6fc11.js": "/Stigi888/hw07252020/precache-manifest.0d96f5465a4052fe4b3e0e3cf4f6fc11.js",
+    "service-worker.js": "/Stigi888/hw07252020/service-worker.js",
+    "static/css/main.2caaf5fa.chunk.css.map": "/Stigi888/hw07252020/static/css/main.2caaf5fa.chunk.css.map",
+    "static/js/2.1f9e485b.chunk.js.LICENSE.txt": "/Stigi888/hw07252020/static/js/2.1f9e485b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.616478e3.js",
+    "static/js/2.1f9e485b.chunk.js",
+    "static/css/main.2caaf5fa.chunk.css",
+    "static/js/main.ec42007e.chunk.js"
+  ]
+}
